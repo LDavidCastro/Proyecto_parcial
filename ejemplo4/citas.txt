@@ -1,0 +1,4 @@
+Paciente: david, Fecha: 15/03/2024, Hora: 10:am
+Paciente: castro, Fecha: 12/23/2024, Hora: 23:10
+Paciente: david, Fecha: 12/34/2024, Hora: 12:09
+Paciente: gerardo, Fecha: 23/03/2024, Hora: 10:08
